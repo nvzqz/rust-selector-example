@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld -Z -demangle -lto_library data_files/libLTO.dylib -dynamic -arch x86_64 -platform_version macos 10.15.0 10.15.6 -dead_strip -filelist objects/filelist

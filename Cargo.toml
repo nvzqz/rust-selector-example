@@ -1,0 +1,6 @@
+[package]
+name = "rust-selector-example"
+version = "0.1.0"
+authors = ["Nikolai Vazquez <hello@nikolaivazquez.com>"]
+edition = "2018"
+publish = false
