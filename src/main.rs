@@ -1,3 +1,6 @@
+#[link(name = "objc", kind = "dylib")]
+extern "C" {}
+
 #[repr(transparent)]
 #[derive(Debug)]
 pub struct SEL(*mut objc_selector);
